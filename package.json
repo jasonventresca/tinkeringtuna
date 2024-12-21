@@ -7,6 +7,6 @@
     "start": "npx -y serve ./.output/public"
   },
   "dependencies": {
-    "nuxt": "^3.9.0"
+    "nuxt": "^3.14.1592"
   }
 }
