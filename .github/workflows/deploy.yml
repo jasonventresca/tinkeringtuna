@@ -1,4 +1,7 @@
-# https://github.com/actions/deploy-pages#usage
+# Adapted from https://nuxt.com/deploy/github-pages
+# The github_pages preset is by Nitro and documented below
+# https://nitro.build/deploy/providers/github-pages
+# Also see https://github.com/actions/deploy-pages#usage
 name: Deploy to GitHub Pages
 on:
   workflow_dispatch:
